@@ -2,9 +2,7 @@
 
 ###
 
-<div align="center">
-  <img height="340" src="https://raw.githubusercontent.com/widiarrohman1234/widiarrohman1234/main/profile-img.jpg"  />
-</div>
+<img align="left" height="340" src="https://raw.githubusercontent.com/widiarrohman1234/widiarrohman1234/main/profile-img.jpg"  />
 
 ###
 
@@ -281,13 +279,17 @@
 
 ###
 
+<p align="left">1. Bekerja di PT. Dapur Perangkat Lunak Indonesia (Koffie Soft) sebagai Backend Developer</p>
+
+###
+
 <br clear="both">
 
 <h2 align="left">2022</h2>
 
 ###
 
-<p align="left">1. Magang di CV.DNS (Distribution Network System)<br>Web Developer (Februari 2022 – April 2022)<br>● Membuat Sistem Informasi untuk antrean menggunakan<br>Laravel 8 dan Tailwind di Bank BSI cabang Ketapang, Kalbar.<br>● Mengatur mesin antrean menggunakan XAMPP agar<br>automatis.</p>
+<p align="left">1. Magang di CV.DNS (Distribution Network System)<br>Web Developer (Februari 2022 – April 2022)<br>● Membuat Sistem Informasi untuk antrean menggunakan<br>Laravel 8 dan Tailwind di Bank BSI cabang Ketapang, Kalbar.<br>● Mengatur mesin antrean menggunakan XAMPP agar<br>automatis.<br><br><br>2. Kuliah di Politeknik Elektronika Negeri Surabaya (PENS) jurusan Teknik Informatika (Agustus 2022)</p>
 
 ###
 
@@ -295,7 +297,15 @@
 
 ###
 
+<p align="left">1. Project SPK (Sistem Pendukung Keputusan) Jenis Batuan di Politeknik Negeri Ketapang jurusan Teknik Pertambangan<br>Posisi: Backend Developer<br><br>Membuat Sistem Informasi menggunakan metode SPK (Sistem Pendukung Keputusan) untuk jenis batuan pada jurusan Teknik Pertambangan Politap menggunakan Laravel 8 dan tanpa database. User memberi tau karakteristik batu dari warna, bentuk dll. Kemudian sistam akan memberi tahu tentang jenis dan spesifikasi batu tersebut.</p>
+
+###
+
 <h2 align="left">2020</h2>
+
+###
+
+<p align="left">1. Project Sistem Informasi Rumah Sakit<br>Posisi: Backend Developer<br><br>Melengkapi program yang kurang pada sistem informasi rumah sakit menggunakan Laravel 8 dan MySQL.</p>
 
 ###
 
@@ -303,7 +313,7 @@
 
 ###
 
-<p align="left">1. Mengikuti lomba LKS bidang ITNSA (IT Network System Administration) perwakilan<br>Kab.Ketapang di Pontianak pada tahun 2019 dengan memperoleh juara 3</p>
+<p align="left">1. Ketika saya sekolah di SMK Negeri 1 Ketapang jurusan Teknik Komputer dan Jaringan (TKJ) kelas 3, saya mengikuti lomba LKS bidang ITNSA (IT Network System Administration) perwakilan<br>Kab.Ketapang di Pontianak pada tahun 2019 dengan memperoleh juara 3</p>
 
 ###
 
@@ -311,7 +321,7 @@
 
 ###
 
-<p align="left">1. Mengikuti lomba LKS bidang ITNSA (IT Network System Administration) perwakilan<br>Kab.Ketapang di Pontianak pada tahun 2018 sebagai peserta</p>
+<p align="left">1. Ketika saya sekolah di SMK Negeri 1 Ketapang jurusan Teknik Komputer dan Jaringan (TKJ) kelas 2, saya mengikuti lomba LKS bidang ITNSA (IT Network System Administration) perwakilan<br>Kab.Ketapang di Pontianak pada tahun 2018 sebagai peserta</p>
 
 ###
 
@@ -319,6 +329,6 @@
 
 ###
 
-<p align="left">1. Magang di CV.DNS (Distribution Network System)<br>Network Administrator (Desember 2017 – Mei 2018)<br>● Setting Mikrotik sebagai gateway, switch, firewall dll.<br>● Memasang instalasi AP dan Router pada client baru.<br>● Maintenance dan Troubleshooting Server jaringan Mikrotik.<br>● Membuat server dengan Debian 7 sebagai DNS Server, DHCP<br>Server, dll.<br>● Belajar dasar-dasar Arduino.</p>
+<p align="left">1. Magang di CV.DNS (Distribution Network System)<br>Network Administrator (Desember 2017 – Mei 2018)<br>Posisi: Network Administrator<br>● Setting Mikrotik sebagai gateway, switch, firewall dll.<br>● Memasang instalasi AP dan Router pada client baru.<br>● Maintenance dan Troubleshooting Server jaringan Mikrotik.<br>● Membuat server dengan Debian 7 sebagai DNS Server, DHCP<br>Server, dll.<br>● Belajar dasar-dasar Arduino.</p>
 
 ###
